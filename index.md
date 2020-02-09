@@ -1,10 +1,8 @@
 ## Portfolio
 
-<details>
-  <summary markdown='span'>
-	**Reports, articles, theses**
-	</summary>
-</details>
+{{ page.path }}
+[**Reports, articles, theses**]({% link /pages/sample_page.md %})
+
 
 <details>
   <summary markdown='span'>
