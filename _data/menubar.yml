@@ -1,0 +1,12 @@
+- label: 
+  items:
+    - name: Reports, articles, theses
+      link: /pages/reports_articles_theses
+    - name: Presentations
+      link: /pages/presentations
+    - name: Source code, notebooks
+      link: /pages/source_code_notebooks
+    - name: Certifications, degrees
+      link: /pages/certifications_degrees
+    - name: Projects, skills
+      link: /pages/projects_skills

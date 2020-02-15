@@ -1,6 +1,14 @@
+---
+subtitle: "Home"
+layout: page
+
+---
+
+
 ## Portfolio
 
-{{ page.path }}
+
+
 [**Reports, articles, theses**]({% link /pages/sample_page.md %})
 
 
