@@ -1,43 +1,13 @@
 ---
 layout: page
-# title: "Portfolio Harold Meerwaldt"
-subtitle: "Reports, articles, theses"
-# image: /path/to/image.jpg
-# description: "The pages meta description"
-# hero_image: /path/to/hero-image.jpg
-# hero_height: is-fullheight
+subtitle: "Presentations"
 show_sidebar: false
 menubar: menubar
 ---
+This is a very small selection of the presentations that I have given.
 
-## This can be your internal website page / project page
-
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### 1. Suggest hypotheses about the causes of observed phenomena
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+|Year|Organization|Location|Title|
+|---|---|---|---|
+|2019|Personal project|-|[Finding the best place to build a cinema: Coursera IBM Data Science Capstone Project](https://github.com/haroldmeerwaldt/Coursera_Capstone/blob/master/Who%20needs%20customer%20anyway%20(presentation).pdf){:target="_blank"}
+|2013|TU Delft|APS March Meeting|[Fast Readout of a Carbon Nanotube Mechanical Resonator](/pdf/presentations/Harold_Meerwaldt_2013_APS_March_Meeting_Fast_Readout_of_a_Carbon_Nanotube_Mechanical_Resonator.pdf){:target="_blank"}
+|2013|TU Delft|PhD Defense Introductory Presentation ("Lekenpraatje")|[Carbon Nanotubes as Electromechanical Resonators](/pdf/presentations/Harold_Meerwaldt_2013_PhD_Defense_Lekenpraatje_Carbon_Nanotubes_as_Electromechanical_Resonators.pdf){:target="_blank"}
