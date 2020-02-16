@@ -1,38 +1,7 @@
 ---
 subtitle: "Home"
 layout: page
-
 ---
+Welcome to my portfolio. 
 
-
-## Portfolio
-
-
-
-[**Reports, articles, theses**]({% link /pages/sample_page.md %})
-
-
-<details>
-  <summary markdown='span'>
-	**Presentations**
-	</summary>
-</details>
-
-<details>
-  <summary markdown='span'>
-	**Source code, notebooks**
-	</summary>
-</details>
-
-<details>
-  <summary markdown='span'>
-	**Certifications, degrees**
-	</summary>
-</details>
-
-<details>
-  <summary markdown='span'>
-	**Projects, skills**
-	</summary>
-</details>
-
+In the menubar on the left you can find the different parts.
