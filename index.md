@@ -4,4 +4,6 @@ layout: page
 ---
 Welcome to my portfolio. 
 
+I have an interest in data science (in the form of experimental physics or otherwise), algorithms, artificial intelligence, and sustainability.
+
 In the menubar on the left you can find the different parts.

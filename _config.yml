@@ -22,3 +22,4 @@ defaults:
       title: "Portfolio Harold Meerwaldt"
       show_sidebar: false
       menubar: menubar
+      hero_height: is-primary

@@ -1,43 +1,36 @@
 ---
 layout: page
-# title: "Portfolio Harold Meerwaldt"
-subtitle: "Reports, articles, theses"
-# image: /path/to/image.jpg
-# description: "The pages meta description"
-# hero_image: /path/to/hero-image.jpg
-# hero_height: is-fullheight
+subtitle: "Projects, skills"
 show_sidebar: false
 menubar: menubar
 ---
+These are software projects that I worked on, using various programming languages and software.
 
-## This can be your internal website page / project page
+|Year|Organization|Language/software|Project|
+|---|---|---|---|
+|2019|Personal project|C++|Problems on projecteuler.net|
+|2019|Applied Nanolayers|Python (a.o. pandas, PyQt), SQL, IBM db2, git|GUI to manually insert into and query a database
+|2018-2019|Applied Nanolayers|Python (a.o. matplotlib, pandas, PyQt, pyqtgraph), git|Control and readout of a tube oven, including a GUI, an algorithm for temperature control, data storage and display
+|2017-2020|Applied Nanolayers|Python (a.o. matplotlib, pandas, PyQt), SQL, IBM db2, git|Control and readout of a Raman microscope, including a GUI, an algorithm for autofocus, automated data analysis, connection to a database
+|2017|LeydenJar Technologies|Microsoft Power BI|Data analysis for the development of a silicon anode for lithium-ion batteries
+|2016|CE Delft|Python|Penetration model for electric vehicles
+|2016|CE Delft|Excel/VBA|Model for CO2 emission development 
+|2013-2015|Mapper Lithography|Python|Automated data analysis for a massively-parallel electron beam generator
+|2009-2013|TU Delft|Python, LabView|Control and readout of cryogenic setups using low and high-frequency electronics 
+|2009-2013|TU Delft|Matlab, Mathematica|Data analysis and simulation of the interaction between single-electron tunneling and high-frequency mechanical motion of a carbon nanotube
+|2009-2013|TU Delft|gnuplot, LaTeX|Articles and PhD thesis
+|2008|ECN|Excel/VBA, Matlab|Penetration model for hydrogen vehicles	
+|2005|Fraunhofer Institut|GAMS|Penetration model for bio fuels
+|2004|Utrecht University|C, Fortran|Courses in Computational Physics
+|2001-2003|Utrecht University|Mathematica|Teaching assistant	
+|2000|Secondary School|QBasic|Small games and programs
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
-### 2. Assess assumptions on which statistical inference will be based
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
-### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

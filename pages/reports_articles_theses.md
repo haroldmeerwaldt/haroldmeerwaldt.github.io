@@ -4,7 +4,7 @@ subtitle: "Reports, articles, theses"
 show_sidebar: false
 menubar: menubar
 ---
-I have contributed to the following (public) reports, articles, and theses as a co-author or as the principal author.
+I have contributed to the following (public) reports, articles, and theses, as a co-author or as the principal author.
 
 ### Reports
 
