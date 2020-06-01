@@ -1,5 +1,3 @@
-## haroldmeerwaldt.github.io
-
 ---
 subtitle: "Home"
 layout: page
