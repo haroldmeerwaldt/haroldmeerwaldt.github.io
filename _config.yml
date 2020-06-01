@@ -19,7 +19,7 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      title: "Portfolio Harold Meerwaldt"
+      title: "Harold Meerwaldt"
       show_sidebar: false
       menubar: menubar
       hero_height: is-primary

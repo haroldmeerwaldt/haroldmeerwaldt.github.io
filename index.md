@@ -2,7 +2,14 @@
 subtitle: "Home"
 layout: page
 ---
-Welcome to my portfolio. In the menubar on the left you can find the different parts.
+Welcome to my website.
 
-I have an interest in data science (in the form of experimental physics or otherwise), algorithms, artificial intelligence, and sustainability.
+You can browse through it using the menubar on the left.
 
+I have an interest in data science (in the form of physics, technology, or otherwise), algorithms, artificial intelligence, and sustainability.
+
+If you wish to contact me, you can reach me through [LinkedIn](https://www.linkedin.com/in/haroldmeerwaldt/){:target="_blank"}.
+
+Sincerely,
+
+Harold
