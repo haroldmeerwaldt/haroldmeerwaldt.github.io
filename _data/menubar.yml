@@ -1,5 +1,7 @@
 - label: 
   items:
+    - name: About me
+      link: /pages/about_me
     - name: Reports, articles, theses
       link: /pages/reports_articles_theses
     - name: Presentations
