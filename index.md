@@ -4,7 +4,7 @@ layout: page
 ---
 Welcome to my website.
 
-You can browse through it using the menubar on the left.
+You can browse through it using the menubar.
 
 I have an interest in data science (in the form of physics, technology, or otherwise), algorithms, artificial intelligence, and sustainability.
 
