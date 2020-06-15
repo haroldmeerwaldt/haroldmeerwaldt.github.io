@@ -10,6 +10,7 @@ These are software projects that I worked on, using various programming language
 
 |Year|Organization|Language/software|Project|
 |---|---|---|---|
+|2020|Personal project|Python (a.o. pyside2, pandas, openpyxl), Markdown|[A Simple Accounting Program, a local program to do the accounting for a small company or freelancer, written using Qt for Python while applying SOLID principles](https://github.com/haroldmeerwaldt/a_simple_accounting_program){:target="_blank"}
 |2020|Personal project|Python (a.o. pandas, TensorFlow, Keras)|Deep Learning 5-course Specialization on Coursera (involving deep, convolutional, and recurrent neural networks, object detection, and natural language processing)
 |2019|Personal project|C++|Problems on projecteuler.net|
 |2019|Personal project|Python (a.o. pandas, scikit-learn, matplotlib, seaborn), SQL|Data Science 9-course Specialization by IBM on Coursera (involving databases, data analysis, data visualization, and machine learning)
