@@ -20,7 +20,7 @@ These are software projects that I worked on, using various programming language
 |2017|LeydenJar Technologies|Microsoft Power BI|Data analysis for the development of a silicon anode for lithium-ion batteries
 |2016|CE Delft|Python|Penetration model for electric vehicles
 |2016|CE Delft|Excel/VBA|Model for CO2 emission development 
-|2013-2015|Mapper Lithography|Python|Automated data analysis for a massively-parallel electron beam generator
+|2013-2015|Mapper Lithography|Python|Automated data analysis and reporting for a massively-parallel electron beam generator
 |2009-2013|TU Delft|Python, LabView|Control and readout of cryogenic setups using low and high-frequency electronics 
 |2009-2013|TU Delft|Matlab, Mathematica|Data analysis and simulation of the interaction between single-electron tunneling and high-frequency mechanical motion of a carbon nanotube
 |2009-2013|TU Delft|gnuplot, LaTeX|Articles and PhD thesis
