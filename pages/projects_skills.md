@@ -22,9 +22,9 @@ These are software projects that I worked on, using various programming language
 |2016|CE Delft|Excel/VBA|Model for CO2 emission development 
 |2013-2015|Mapper Lithography|Python|Automated data analysis and reporting for a massively-parallel electron beam generator
 |2009-2013|TU Delft|Python, LabView|Control and readout of cryogenic setups using low and high-frequency electronics 
-|2009-2013|TU Delft|Matlab, Mathematica|Data analysis and simulation of the interaction between single-electron tunneling and high-frequency mechanical motion of a carbon nanotube
+|2009-2013|TU Delft|MATLAB, Mathematica|Data analysis and simulation of the interaction between single-electron tunneling and high-frequency mechanical motion of a carbon nanotube
 |2009-2013|TU Delft|gnuplot, LaTeX|Articles and PhD thesis
-|2008|ECN|Excel/VBA, Matlab|Penetration model for hydrogen vehicles	
+|2008|ECN|Excel/VBA, MATLAB|Penetration model for hydrogen vehicles	
 |2005|Fraunhofer ISI|GAMS|Penetration model for bio fuels
 |2004|Utrecht University|C, Fortran|Courses in Computational Physics
 |2001-2003|Utrecht University|Mathematica|Teaching assistant	
