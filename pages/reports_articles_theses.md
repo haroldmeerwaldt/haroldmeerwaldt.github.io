@@ -10,7 +10,7 @@ I have contributed to the following (public) reports, articles, and theses, as a
 
 | Year | Organization | Title |
 | ---|---|---|
-|2019|Personal project|[Finding the best place to build a cinema: Coursera IBM Data Science Capstone Project]("https://github.com/haroldmeerwaldt/Coursera_Capstone/blob/master/Who%20needs%20customer%20anyway%20(report).pdf"){:target="_blank"}
+|2019|Personal project|[Finding the best place to build a cinema: Coursera IBM Data Science Capstone Project](https://github.com/haroldmeerwaldt/Coursera_Capstone/blob/master/Who%20needs%20customer%20anyway%20(report).pdf){:target="_blank"}
 |2017|CE Delft|[Klimaatbeleid voor mobiliteit op de kaart](https://www.ce.nl/publicaties/1909/klimaatbeleid-voor-mobiliteit-op-de-kaart){:target="_blank"}
 |2016|CE Delft|[SECA Assessment: Impacts of 2015 SECA marine fuel sulphur limits](https://www.ce.nl/en/publications/1780/seca-assessment-impacts-of-2015-seca-marine-fuel-sulphur-limits){:target="_blank"}
 |2016|CE Delft|[Segmentering van de logistieke activiteiten in Nederland](https://www.ce.nl/publicaties/1809/segmentering-van-de-logistieke-activiteiten-in-nederland){:target="_blank"}
