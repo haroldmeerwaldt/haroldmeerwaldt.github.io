@@ -15,4 +15,4 @@ I have read the following books related to software engineering.
 |2020|Gamma, Helm, Johnson, Vlissides|[Design Patterns: Elements of Reusable Object-Oriented Software](http://www.worldcat.org/oclc/961356420){:target="_blank"}
 |2020|Hunt & Thomas|[The Pragmatic Programmer: from journeyman to master](http://www.worldcat.org/oclc/918899734){:target="_blank"}
 |2020|Robert C. Martin|[Clean Code: A Handbook of Agile Software Craftsmanship](http://www.worldcat.org/oclc/968264214){:target="_blank"}
-|2019|Gertjan Laan|[Aan de slag met C++](http://www.worldcat.org/oclc/1140072488){:target="_blank"}
+|2019|Gertjan Laan|[Aan de slag met C++](http://www.worldcat.org/oclc/992966118){:target="_blank"}
