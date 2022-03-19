@@ -8,9 +8,9 @@ subtitle: "Reading"
 I have read the following books related to software engineering.
 
 |Year read|Author(s)|Title
+|In progress|John Hunt|[Advanced Guide to Python 3 Programming](http://www.worldcat.org/oclc/1105351033){:target="_blank"}
 |In progress|Stephen Prata|[C++ Primer Plus](http://www.worldcat.org/oclc/867138379){:target="_blank"}
-|In progress|Goodfellow, Bengio, Courville|[Deep Learning](http://www.worldcat.org/oclc/1039124561){:target="_blank"}
-|In progress|Kief Morris|[Infrastructure as Code: Dynamic Systems for the Cloud Age](http://www.worldcat.org/oclc/1238064565){:target="_blank"}
+|2022|Patrick Viafore|[Robust Python: Write Clean and Maintainable Code](http://www.worldcat.org/oclc/1268175012){:target="_blank"}
 |2021|Luciano Ramalho|[Fluent Python: Clear, Concise, and Effective Programming](http://www.worldcat.org/oclc/1113279631){:target="_blank"}
 |2021|Kim, Behr, Spafford|[The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](http://www.worldcat.org/oclc/1043022026){:target="_blank"}
 |2021|Sam Newman|[Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](http://www.worldcat.org/oclc/1225960676){:target="_blank"}
@@ -20,3 +20,6 @@ I have read the following books related to software engineering.
 |2020|Hunt & Thomas|[The Pragmatic Programmer: from journeyman to master](http://www.worldcat.org/oclc/918899734){:target="_blank"}
 |2020|Robert C. Martin|[Clean Code: A Handbook of Agile Software Craftsmanship](http://www.worldcat.org/oclc/968264214){:target="_blank"}
 |2019|Gertjan Laan|[Aan de slag met C++](http://www.worldcat.org/oclc/992966118){:target="_blank"}
+
+<!--|In progress|Goodfellow, Bengio, Courville|[Deep Learning](http://www.worldcat.org/oclc/1039124561){:target="_blank"}
+|In progress|Kief Morris|[Infrastructure as Code: Dynamic Systems for the Cloud Age](http://www.worldcat.org/oclc/1238064565){:target="_blank"}-->
