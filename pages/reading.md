@@ -8,8 +8,8 @@ subtitle: "Reading"
 I have read the following books related to software engineering.
 
 |Year read|Author(s)|Title
-|In progress|John Hunt|[Advanced Guide to Python 3 Programming](http://www.worldcat.org/oclc/1105351033){:target="_blank"}
 |In progress|Stephen Prata|[C++ Primer Plus](http://www.worldcat.org/oclc/867138379){:target="_blank"}
+|2022|John Hunt|[Advanced Guide to Python 3 Programming](http://www.worldcat.org/oclc/1105351033){:target="_blank"}
 |2022|Patrick Viafore|[Robust Python: Write Clean and Maintainable Code](http://www.worldcat.org/oclc/1268175012){:target="_blank"}
 |2021|Luciano Ramalho|[Fluent Python: Clear, Concise, and Effective Programming](http://www.worldcat.org/oclc/1113279631){:target="_blank"}
 |2021|Kim, Behr, Spafford|[The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](http://www.worldcat.org/oclc/1043022026){:target="_blank"}
