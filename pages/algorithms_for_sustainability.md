@@ -25,4 +25,4 @@ The books are:
 |2|Kochenderfer & Wheeler|[Algorithms for Optimization ](http://www.worldcat.org/oclc/1105626979){:target="_blank"}|2 / 24|8%
 |3|Graham, Knuth, Patashnik|[Concrete Mathematics](http://www.worldcat.org/oclc/1267922408){:target="_blank"}|2 / 9|22%
 |4|Nielsen & Chuang|[Quantum Computation and Quantum Information](http://www.worldcat.org/oclc/1288064265){:target="_blank"}|0 / 12|0%
-|5|Brunton & Kutz|[Data-driven Science and Engineering: Machine Learning, Dynamical Systems, and Control](http://www.worldcat.org/oclc/1249965770){:target="_blank"}|1 / 12|8%
+|5|Brunton & Kutz|[Data-driven Science and Engineering: Machine Learning, Dynamical Systems, and Control](http://www.worldcat.org/oclc/1249965770){:target="_blank"}|3 / 12|25%
