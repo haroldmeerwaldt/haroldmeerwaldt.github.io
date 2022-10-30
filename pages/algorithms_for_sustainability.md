@@ -26,3 +26,8 @@ The books are:
 |3|Graham, Knuth, Patashnik|[Concrete Mathematics](http://www.worldcat.org/oclc/1267922408){:target="_blank"}|2 / 9|22%
 |4|Nielsen & Chuang|[Quantum Computation and Quantum Information](http://www.worldcat.org/oclc/1288064265){:target="_blank"}|0 / 12|0%
 |5|Brunton & Kutz|[Data-driven Science and Engineering: Machine Learning, Dynamical Systems, and Control](http://www.worldcat.org/oclc/1249965770){:target="_blank"}|4 / 12|33%
+
+Additional books read:
+
+|#|Author(s)|Title
+|6|Sharkey & Chancé|[Quantum Chemistry and Computing for the Curious: Illustrated with Python and Qiskit code](https://worldcat.org/title/1319198736){:target="_blank"}
