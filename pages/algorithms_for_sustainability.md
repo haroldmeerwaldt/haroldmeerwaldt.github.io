@@ -16,12 +16,12 @@ The project is divided in the following parts:
 |2|Make inventory of 16 algorithms for sustainability on dev.to|0 / 16|0%|-
 |3|Write 8 notebooks on Kaggle involving AI and sustainability|0 / 8|0%|-
 |4|Implement 3 campaigns with 5 levels on plenteon.net|0 / 3 with 0 / 5|0%|-
-|5|Read 5 books on algorithms|(see below)|27%|-
+|5|Read 5 books on algorithms|(see below)|29%|-
 
 The books are:
 
 |#|Author(s)|Title|Chapters read|Progress
-|1|Goodfellow, Bengio, Courville|[Deep Learning](http://www.worldcat.org/oclc/1039124561){:target="_blank"}|4 / 20|20%
+|1|Goodfellow, Bengio, Courville|[Deep Learning](http://www.worldcat.org/oclc/1039124561){:target="_blank"}|6 / 20|30%
 |2|Kochenderfer & Wheeler|[Algorithms for Optimization ](http://www.worldcat.org/oclc/1105626979){:target="_blank"}|7 / 24|29%
 |3|Graham, Knuth, Patashnik|[Concrete Mathematics](http://www.worldcat.org/oclc/1267922408){:target="_blank"}|2 / 9|22%
 |4|Nielsen & Chuang|[Quantum Computation and Quantum Information](http://www.worldcat.org/oclc/1288064265){:target="_blank"}|4 / 12|33%
