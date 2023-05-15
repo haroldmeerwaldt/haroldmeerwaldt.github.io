@@ -8,6 +8,7 @@ subtitle: "Reading"
 I have read the following books related to software engineering.
 
 |Year read|Author(s)|Title
+|In progress|Aurélien Géron|[Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.worldcat.org/title/1346503549){:target="_blank"}
 |In progress|Stephen Prata|[C++ Primer Plus](http://www.worldcat.org/oclc/867138379){:target="_blank"}
 |2023|Martin Fowler|[Refactoring: Improving the Design of Existing Code](https://worldcat.org/en/title/1134628112){:target="_blank"}
 |2022|Percival & Gregory|[Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices](http://www.worldcat.org/oclc/1114562500){:target="_blank"}
