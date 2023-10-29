@@ -27,7 +27,8 @@ The books are:
 |4|Nielsen & Chuang|[Quantum Computation and Quantum Information](http://www.worldcat.org/oclc/1288064265){:target="_blank"}|7 / 12|58%
 |5|Brunton & Kutz|[Data-driven Science and Engineering: Machine Learning, Dynamical Systems, and Control](http://www.worldcat.org/oclc/1249965770){:target="_blank"}|4 / 12|33%
 
-Additional books read:
+Additional books/reviews read:
 
 |#|Author(s)|Title
 |6|Sharkey & Chancé|[Quantum Chemistry and Computing for the Curious: Illustrated with Python and Qiskit code](https://worldcat.org/title/1319198736){:target="_blank"}
+|7|Cerezo et al.|[Variational Quantum Algorithms](https://arxiv.org/abs/2012.09265){:target="_blank"}
