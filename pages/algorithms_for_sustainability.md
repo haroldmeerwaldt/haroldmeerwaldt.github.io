@@ -33,3 +33,4 @@ Additional books/reviews read:
 |6|Sharkey & Chancé|[Quantum Chemistry and Computing for the Curious: Illustrated with Python and Qiskit code](https://worldcat.org/title/1319198736){:target="_blank"}
 |7|Cerezo et al.|[Variational Quantum Algorithms](https://arxiv.org/abs/2012.09265){:target="_blank"}
 |8|Katabarwa et al.|[Early Fault-Tolerant Quantum Computing](https://arxiv.org/abs/2311.14814){:target="_blank"}
+|9|Johnston, Harrigan, Gimeno-Segovia|[Programming Quantum Computers: Essential Algorithms and Code Samples](https://search.worldcat.org/title/1071962940){:target="_blank"}
