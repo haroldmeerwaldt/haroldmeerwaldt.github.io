@@ -1,13 +1,8 @@
-#remote_theme: chrisrhymes/bulma-clean-theme #@v1.0.0
 theme: bulma-clean-theme
 
 # https://www.csrhymes.com/bulma-clean-theme/page-3/
 # google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
-title: Harold Meerwaldt
-
-repository: haroldmeerwaldt/haroldmeerwaldt.github.io
-github: [metadata]
 
 plugins:
   - jekyll-sitemap
