@@ -4,3 +4,5 @@ _site/
 .idea/
 
 not_in_repo/
+
+Gemfile.lock
