@@ -5,6 +5,7 @@ theme: bulma-clean-theme
 
 title: Harold Meerwaldt
 repository: haroldmeerwaldt/haroldmeerwaldt.github.io
+github: [metadata]
 
 plugins:
   - jekyll-sitemap
