@@ -1,5 +1,8 @@
 source "https://rubygems.org"
 
+# gem "jekyll", "~> 4.3"
+# gem "bulma-clean-theme",  '1.0.0'
+
 gem "jekyll"
 gem "jekyll-redirect-from"
 gem "bulma-clean-theme"
