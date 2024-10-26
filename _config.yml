@@ -5,7 +5,8 @@ theme: bulma-clean-theme
 
 title: Harold Meerwaldt
 repository: haroldmeerwaldt/haroldmeerwaldt.github.io
-github: [metadata]
+
+# todo: add github API authentication: see e.g. https://github.com/github/pages-gem/issues/399
 
 plugins:
   - jekyll-sitemap
