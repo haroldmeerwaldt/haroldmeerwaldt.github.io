@@ -12,7 +12,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-redirect-from
-  - github-pages
+
 
 
 defaults:
