@@ -8,10 +8,10 @@ subtitle: "Reading"
 I have read the following books related to software engineering.
 
 |Year read|Author(s)|Title
-|In progress|Arthur J. Riel|[Object-Oriented Design Heuristics](https://search.worldcat.org/title/33970777){:target="_blank"}
 |In progress|Tanya Reilly|[The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://search.worldcat.org/title/1309064917){:target="_blank"}
 |In progress|Aurélien Géron|[Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.worldcat.org/title/1346503549){:target="_blank"}
 |In progress|Stephen Prata|[C++ Primer Plus](http://www.worldcat.org/oclc/867138379){:target="_blank"}
+|2025|Arthur J. Riel|[Object-Oriented Design Heuristics](https://search.worldcat.org/title/33970777){:target="_blank"}
 |2024|Bonaventure et al.|[Computer Networking: pt. 1 Principles and pt. 2 Protocols](https://beta.computer-networking.info/syllabus/default/index.html){:target="_blank"}
 |2024|Richards & Ford|[Fundamentals of Software Architecture: An Engineering Approach](https://search.worldcat.org/title/1138515057){:target="_blank"}
 |2024|Johnston, Harrigan, Gimeno-Segovia|[Programming Quantum Computers: Essential Algorithms and Code Samples](https://search.worldcat.org/title/1071962940){:target="_blank"}
