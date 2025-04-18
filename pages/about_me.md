@@ -15,4 +15,4 @@ My interest in algorithms and data has led me to the fields of quantum computing
 
 Besides applying my quantitative skills, I like interacting with people: I’m easy to be around and I take the time to listen and help people. As a consultant in sustainable mobility policy, I got the opportunity to interview some 40 professionals, which led me to all kinds of interesting places and people. I have explored becoming a teacher; I love explaining things to people.
 
-In my spare time I like singing and playing the piano. Together with others from my former band we recorded an album in a professional studio. I enjoy learning new languages and have obtained a B1-certificate (DELE) in Spanish. I can be found running and I read a lot of non-fiction books. Together with my girlfriend and our two children, I live near the beautiful town of Delft, the Netherlands.
+In my spare time I like singing and playing the piano. Together with others from my former band we recorded an album in a professional studio. I enjoy learning new languages and have obtained a B1-certificate (DELE) in Spanish. I can be found running and I read a lot of non-fiction books.

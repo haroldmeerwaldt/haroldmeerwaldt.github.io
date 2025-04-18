@@ -35,3 +35,4 @@ Additional books/reviews read:
 |8|Katabarwa et al.|[Early Fault-Tolerant Quantum Computing](https://arxiv.org/abs/2311.14814){:target="_blank"}
 |9|Johnston, Harrigan, Gimeno-Segovia|[Programming Quantum Computers: Essential Algorithms and Code Samples](https://search.worldcat.org/title/1071962940){:target="_blank"}
 |10|Tilly et al.|[The Variational Quantum Eigensolver: a review of methods and best practices](https://arxiv.org/abs/2111.05176){:target="_blank"}
+|11|Burkard et al.|[Semiconductor Spin Qubits](https://arxiv.org/abs/2112.08863){:target="_blank"}
