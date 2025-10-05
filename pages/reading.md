@@ -8,9 +8,12 @@ subtitle: "Reading"
 I have read the following books related to software engineering.
 
 |Year read|Author(s)|Title
-|In progress|Caleb Hattingh|[Using Asyncio in Python: Understanding Python's Asynchronous Programming Features](https://search.worldcat.org/title/1146579054){:target="_blank"}
+|In progress|Winters, Manshreck, Wright|[Software Engineering at Google: Lessons Learned from Programming Over Time](https://search.worldcat.org/title/1228515914){:target="_blank"}
+|In progress|Gorelick & Ozsvald|[High Performance Python: Practical Performant Programming for Humans](https://search.worldcat.org/title/1521124810){:target="_blank"}
 |In progress|Aurélien Géron|[Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.worldcat.org/title/1346503549){:target="_blank"}
 |In progress|Stephen Prata|[C++ Primer Plus](http://www.worldcat.org/oclc/867138379){:target="_blank"}
+|2025|Blaha & Rumbaugh|[Object-Oriented Modeling and Design with UML](https://search.worldcat.org/title/56419101){:target="_blank"}
+|2025|Caleb Hattingh|[Using Asyncio in Python: Understanding Python's Asynchronous Programming Features](https://search.worldcat.org/title/1146579054){:target="_blank"}
 |2025|Tanya Reilly|[The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://search.worldcat.org/title/1309064917){:target="_blank"}
 |2025|Arthur J. Riel|[Object-Oriented Design Heuristics](https://search.worldcat.org/title/33970777){:target="_blank"}
 |2024|Bonaventure et al.|[Computer Networking: pt. 1 Principles and pt. 2 Protocols](https://beta.computer-networking.info/syllabus/default/index.html){:target="_blank"}
