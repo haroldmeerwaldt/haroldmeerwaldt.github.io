@@ -16,8 +16,8 @@ I have contributed to the following (public) reports, articles, and theses, as a
 |2016|CE Delft|[Segmentering van de logistieke activiteiten in Nederland](https://www.ce.nl/publicaties/1809/segmentering-van-de-logistieke-activiteiten-in-nederland){:target="_blank"}
 |2016|CE Delft|[Stimuleren van elektrisch rijden onder particulieren](https://www.ce.nl/publicaties/1847/stimuleren-van-elektrisch-rijden-onder-particulieren){:target="_blank"}
 |2015|CE Delft|[Goedkopere stroom door slim laden van EV's](https://www.cvs-congres.nl/cvspdfdocs_2015/cvs15_057.pdf){:target="_blank"}
-|2010|ECN|[Mixing and Transporting H2 through the natural Gas Network](https://repository.tudelft.nl/view/tno/uuid:cfe4cf09-f872-4f0a-864f-ae7c52e2159c){:target="_blank"}
-|2010|ECN|[Impact of industry strategies and consumer attitude on growth of the hydrogen vehicle fleet and corresponding refuelling infrastructure](https://repository.tudelft.nl/view/tno/uuid%3Ad135c05d-a51f-491f-9695-f39bbd102766){:target="_blank"}
+|2010|ECN|[Mixing and Transporting H2 through the natural Gas Network](https://repository.tno.nl/SingleDoc?find=UID%20cfe4cf09-f872-4f0a-864f-ae7c52e2159c){:target="_blank"}
+|2010|ECN|[Impact of industry strategies and consumer attitude on growth of the hydrogen vehicle fleet and corresponding refuelling infrastructure](https://repository.tno.nl/SingleDoc?find=UID%20d135c05d-a51f-491f-9695-f39bbd102766){:target="_blank"}
 |2005|Utrecht University / Fraunhofer ISI (internship)|[Lock-in effects integrated into an energy system model: how learning curves affect the amount of bio fuel used in the automotive transport sector of Germany](/pdf/reports/Harold_Meerwaldt_2005_Internship_report_Lock-in_effects_integrated_into_an_energy_system_model.pdf){:target="_blank"}
 
 ### Articles

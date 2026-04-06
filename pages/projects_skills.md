@@ -10,6 +10,9 @@ These are software projects that I worked on, using various programming language
 
 |Year|Organization|Language/software|Project|
 |---|---|---|---|
+|2020-2026|TNO, ENTER at QuTech|Python (a.o. numpy, xarray, matplotlib, pytest, mypy, pylint), git, GitLab CI|Control software of a spin-qubit quantum computer, focusing on experiment execution and data processing
+|2026|TNO|GitLab|Deployment of a GitLab runner for CI pipelines
+|2021|ENTER at QuTech|Linux, bash, git|Deployment of a quantum emulator on SURF's Lisa cluster
 |2020|Personal project|Python (a.o. pyside2, pandas, openpyxl), Markdown|[A Simple Accounting Program, a local program to do the accounting for a small company or freelancer, written using Qt for Python while applying SOLID principles](https://github.com/haroldmeerwaldt/a_simple_accounting_program){:target="_blank"}
 |2020|Personal project|Python (a.o. pandas, TensorFlow, Keras)|Deep Learning 5-course Specialization on Coursera (involving deep, convolutional, and recurrent neural networks, object detection, and natural language processing)
 |2019|Personal project|C++|Problems on projecteuler.net|
